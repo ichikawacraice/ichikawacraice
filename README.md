@@ -9,7 +9,7 @@ I'm Gabriel Ichikawa Craice, a web developer from Brazil.
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️ React
 - 👁️ SASS, CSS, Tailwind
-- 💽 MySQL, SQL
+- 💽 MySQL, SQL, GraphQL, API
 
 ## Contact
 - [@gabriel-ichikawa-craice](https://www.linkedin.com/in/gabriel-ichikawa-craice/) on LinkedIn
