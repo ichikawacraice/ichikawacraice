@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ichikawacraice
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hey! 👋
+I'm Gabriel Ichikawa Craice, a web developer from Brazil.
 
-<!---
-ichikawacraice/ichikawacraice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🧭 Currently working at [@enext](https://www.linkedin.com/company/enext-ecommerce)
+
+- 👥 Member of Ignite, studying at [@Rocketseat](https://www.rocketseat.com.br/)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React
+- 👁️ SASS, CSS, Tailwind
+- 💽 MySQL, SQL
+
+## Contact
+- [@gabriel-ichikawa-craice](https://www.linkedin.com/in/gabriel-ichikawa-craice/) on LinkedIn
