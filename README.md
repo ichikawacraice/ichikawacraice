@@ -8,7 +8,7 @@ I'm Gabriel Ichikawa Craice, a web developer from Brazil.
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
 - ⚙️ React
-- 👁️ SASS, CSS, Tailwind
+- 👁️ SASS, CSS, Tailwind, Styled Components
 - 💽 MySQL, SQL, GraphQL, API
 
 ## Contact
