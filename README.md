@@ -1,9 +1,7 @@
 ## Hey! 👋
 I'm Gabriel Ichikawa Craice, a web developer from Brazil.
 
-- 🧭 Currently working at [@enext](https://www.linkedin.com/company/enext-ecommerce)
-
-- 👥 Member of Ignite, studying at [@Rocketseat](https://www.rocketseat.com.br/)
+- 🧭 Currently working at [@wicomm](https://www.linkedin.com/company/wicomm-ag)
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
